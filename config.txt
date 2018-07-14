@@ -1,0 +1,34 @@
+Runs: 10
+
+Population size: 1000
+
+Max generations: 1500
+
+//--------------------------------
+
+Selection: tournament
+
+Tournament size: 4
+
+//--------------------------------
+
+Recombination: one_cut
+
+Recombination probability: 0
+
+//--------------------------------
+
+Mutation: normal_distribution
+
+Mutation probability: 1
+
+Standard deviation: 1, 0.5, 0.1, 0.05
+
+//--------------------------------
+
+Problem file: ./DataSets/DataSet1.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage
