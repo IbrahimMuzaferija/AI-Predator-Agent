@@ -1,6 +1,6 @@
 # AI-capture
 
-![alt text](https://github.com/IbrahimMuzaferija/AI-capture/master/enviroment-picture.png)
+!AI Capture Enviroment (https://raw.githubusercontent.com/IbrahimMuzaferija/AI-capture/master/enviroment-picture.png?raw=true)
 
 ## Introduction
 
