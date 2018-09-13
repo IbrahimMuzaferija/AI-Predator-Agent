@@ -1,6 +1,6 @@
 # AI-capture
 
-![AI Capture Enviroment](https://raw.githubusercontent.com/IbrahimMuzaferija/AI-capture/master/enviroment-picture.png?raw=true)
+<p align="center"><img src="https://raw.githubusercontent.com/IbrahimMuzaferija/AI-capture/master/enviroment-picture.png"></p>
 
 ## Introduction
 
@@ -8,6 +8,7 @@ The main objective of this project is an JAVA application that uses genetic algo
 
 The performance of the controllers should be evaluated taking in consideration the ability to perform the intended task: Predator agent should move, in a fastest manner, to capture the Prey agent. The enviroment is 10x10 grid, Predator agent is blue cell and Prey agent is red cell.
 
+<p align="center"><img src="https://raw.githubusercontent.com/IbrahimMuzaferija/AI-capture/master/UI.png"></p>
 
 
 ## Enviroment
