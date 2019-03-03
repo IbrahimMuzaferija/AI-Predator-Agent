@@ -1,4 +1,4 @@
-# AI-capture
+# AI Predator Agent
 
 <p align="center"><img src="https://raw.githubusercontent.com/IbrahimMuzaferija/AI-capture/master/enviroment-picture.png"></p>
 
